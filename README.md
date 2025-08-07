@@ -27,7 +27,8 @@ This interactive Power BI dashboard analyzes mobile phone sales across various I
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview]([DashboardPreview.jpg](https://github.com/student-ju/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dasboard%20PowerBi%20Project%201.JPG))
+![Dashboard Preview](DashboardPreview.jpg)
+
 
 ---
 
