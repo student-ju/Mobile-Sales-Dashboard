@@ -29,18 +29,6 @@ This interactive Power BI dashboard analyzes mobile phone sales across various I
 
 ![Dashboard Preview](https://github.com/student-ju/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dasboard%20PowerBi%20Project%201.JPG)
 
-
----
-
-## 📁 Files in This Repo
-| File Name | Description |
-|-----------|-------------|
-| `MobileSalesDashboard.pbix` | Power BI project file (open in Power BI Desktop) |
-| `DashboardPreview.jpg` | Snapshot of the dashboard UI |
-| `README.md` | Project summary & documentation |
-
----
-
 ## 🙋‍♀️ About Me
 
 👩‍💻 I'm **Anitra Halder**, a 3rd-year Electrical Engineering student at Jadavpur University, with a strong interest in **data analytics, business intelligence**, and **technology consulting**. This project reflects my passion for transforming data into strategic insights.
